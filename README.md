@@ -3,9 +3,6 @@
 ✔✔  Hello Everyone, I am student and currently pursuing a degree at [Charusat University](https://www.charusat.ac.in/)
  - Hi, I am currently  working on Android Application 📱.
  - You can reach me via rajbhavani805@gmail.com
-
-
-
  
 <img src = "https://github-readme-stats.vercel.app/api?username=Rajbhavani007&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img height="180em" src="https://camo.githubusercontent.com/5ed148bf0905bac2be9c7d9effd091c8974680504ccf43490051bbe8392818df/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d766976656b39706174656c266c61796f75743d636f6d70616374266c616e67735f636f756e743d38267468656d653d616c676f6c6961" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rajbhavani007&amp;layout=compact&amp;langs_count=8&amp;theme=algolia" style="max-width:100%;">
