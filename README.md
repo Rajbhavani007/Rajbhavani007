@@ -27,5 +27,5 @@
 # Contact me :
 <a href =" https://www.linkedin.com/in/raj-bhavani-97b4341a2"><img src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-Square-300x300.png" width="5%" ></a>
 <a href ="https://www.instagram.com/morningstarr_07/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="5%" ></a>
-<a href ="https://www.facebook.com/raj.bhavani.56"><img src="https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg" width="5%" ></a>
+<a href ="https://www.facebook.com/raj.bhavani.56"><img src="https://image.similarpng.com/very-thumbnail/2020/05/Facebook-logo-in-square-shape-PNG.png" width="5%" ></a>
 
